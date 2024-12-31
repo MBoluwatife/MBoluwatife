@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MBoluwatife
 - 👀 I’m interested in Data analytics,data insight and visualization,Geospatial analysis.
 - 🌱 I’m currently learning data analytics 
-- 💞️ I’m looking to collaborate on anything that has data 
+- 💞️ I’m looking to collaborate on Data analytics & Geospatial analysis.
 - 📫 How to reach me medunoyeboluwatife@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love watching movie recaps
